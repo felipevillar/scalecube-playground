@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+package com.example.codec.protobuf;
+
+option java_package = "com.example.codec.protobuf";
+option java_outer_classname = "MessageHeadersProtos";
+
+message MessageHeaders {
+    map<string, string> headers = 1;
+}
+
