@@ -28,3 +28,5 @@ java -cp "target/scalecube-playground-1.0-SNAPSHOT.jar;target/lib/*" com.example
 
 # Can also do similar to above for the other examples in com.example.services.client
 ```
+
+That's it!
