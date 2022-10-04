@@ -20,7 +20,7 @@
         <mockito.version>3.3.3</mockito.version>
         <hamcrest.version>2.2</hamcrest.version>
         <google-truth.version>1.0.1</google-truth.version>
-        <protobuf.version>3.11.4</protobuf.version>
+        <protobuf.version>3.16.3</protobuf.version>
         <maven-surefire-plugin.version>2.22.0</maven-surefire-plugin.version>
         <maven-failsafe-plugin.version>2.22.0</maven-failsafe-plugin.version>
     </properties>
